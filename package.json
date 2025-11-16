@@ -54,7 +54,7 @@
     "whatwg-fetch": "^2.0.4"
   },
   "devDependencies": {
-    "eslint": "7.32.0",
+    "eslint": "9.0.0",
     "eslint-config-standard": "16.0.3",
     "eslint-plugin-html": "7.1.0",
     "eslint-plugin-import": "2.26.0",
